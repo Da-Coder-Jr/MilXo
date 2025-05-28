@@ -20,3 +20,12 @@ Click on image:
 
 
 (Similar/Clone of sora.chatgpt.com) (Sorry for the blur! I don't wanna get in any legal trouble.)
+
+
+# Plan/Roadmap
+
+[x] All free (For the user)
+[] Website
+[] Storage
+[] Plan (How will this be free for us? [People building MilXo]
+
